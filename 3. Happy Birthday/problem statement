@@ -1,0 +1,23 @@
+Happy Birthday
+
+The current year is 2020. And it's your friends birthday. You know her name and the year of her birth. You want to wish her and remind her of her current age.
+
+Input Format
+A single line with 2 space separated inputs - name year
+
+Output Format
+A single line - "Happy Birthday <name>! Your current age is <computed_age>"
+
+Examples
+Sample Input
+Ria 1996
+
+Expected Output
+Happy Birthday Ria! Your current age is 24
+
+
+
+Constraints
+Assume that the input satisfies these constraints.
+0 < length of name <= 100
+1980 <= year of birth < 2020

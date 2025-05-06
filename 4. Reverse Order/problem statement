@@ -1,0 +1,24 @@
+Reverse Order
+
+Given a set of numbers, print them in the reversed order.
+
+Input Format
+First lines containing the number of numbers n
+
+Second line containing all the n numbers a1 a2 a3 . . . . an
+
+Output Format
+A single line containing the numbers in the reversed order an an-1 an-2 . . . .a1
+
+Examples
+
+Sample Input
+5
+34 12 56 2 1
+
+Expected Output
+1 2 56 12 34
+
+Constraints
+1 <= n <= 100000
+0 <= ai <= 100000
