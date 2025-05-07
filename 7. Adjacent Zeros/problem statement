@@ -1,0 +1,30 @@
+Adjacent Zeros
+
+A binary number is a number composed of 0s and 1s.
+Given a binary number, check if the number has adjacent zeroes or not, i.e., if two zeroes are present side by side or not.
+
+Input Format
+The first line contains T - no. of test cases.
+
+Next T lines each containing one binary number N.
+
+Output Format
+"Yes" if the number has adjacent zeroes
+"No" if the number does not have adjacent zeroes
+
+Examples
+
+Sample Input
+3
+1011
+10000
+1010101001
+
+Expected Output
+No
+Yes
+Yes
+
+Constraints:
+0 < T <= 100000
+Len(N) < 30
