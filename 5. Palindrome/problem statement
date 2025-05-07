@@ -1,0 +1,30 @@
+Palindrome
+
+A palindrome is a word that reads the same backward as forward, e.g., madam. If you start comparing the letters from the beginning with the corresponding letters from the end, they would be the same.
+
+Given a set of words, you have to find if they are palindrome or not.
+
+Input Format
+First line contains an integer T denoting the number of words to check.
+
+Next T lines contain a word each without any special characters.
+
+Output Format
+T lines, each denoting if the corresponding word is a palindrome.
+
+"True" if the word is a palindrome and "False" if it is not.
+
+Examples
+
+Sample Input
+2
+refer
+roar
+
+Expected Output
+True
+False
+
+Constraints
+0 < T <= 100
+0 < length of word <= 10000
